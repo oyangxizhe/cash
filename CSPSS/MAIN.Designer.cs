@@ -204,7 +204,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MAIN";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "巨安充值程序";
+            this.Text = "XXX充值程序";
             this.Load += new System.EventHandler(this.MAIN_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

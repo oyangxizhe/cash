@@ -9,7 +9,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CSPSS</RootNamespace>
-    <AssemblyName>巨安冲值程序</AssemblyName>
+    <AssemblyName>XXX冲值程序</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <StartupObject>
@@ -25,7 +25,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>bin\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -172,6 +172,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="bin\Debug\巨安冲值程序.exe.config" />
+    <None Include="bin\Debug\巨安冲值程序.vshost.exe.config" />
+    <None Include="bin\Debug\巨安冲值程序.vshost.exe.manifest" />
+    <None Include="bin\Debug\财务管理系统.vshost.exe.config" />
+    <None Include="bin\Debug\超市卡冲值程序.vshost.exe.config" />
     <None Include="Service References\ServiceReference1\Service.wsdl" />
   </ItemGroup>
   <ItemGroup>
@@ -230,6 +235,115 @@
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
+    <Content Include="bin\Debug\Image\1.png" />
+    <Content Include="bin\Debug\Image\10.png" />
+    <Content Include="bin\Debug\Image\11.png" />
+    <Content Include="bin\Debug\Image\12.png" />
+    <Content Include="bin\Debug\Image\13.png" />
+    <Content Include="bin\Debug\Image\14.png" />
+    <Content Include="bin\Debug\Image\15.png" />
+    <Content Include="bin\Debug\Image\16.png" />
+    <Content Include="bin\Debug\Image\17.png" />
+    <Content Include="bin\Debug\Image\18.png" />
+    <Content Include="bin\Debug\Image\19.png" />
+    <Content Include="bin\Debug\Image\1X24X24.png" />
+    <Content Include="bin\Debug\Image\2.png" />
+    <Content Include="bin\Debug\Image\20.png" />
+    <Content Include="bin\Debug\Image\201.png" />
+    <Content Include="bin\Debug\Image\20150101124303991_easyicon_net_48.png" />
+    <Content Include="bin\Debug\Image\21.png" />
+    <Content Include="bin\Debug\Image\211.png" />
+    <Content Include="bin\Debug\Image\22.png" />
+    <Content Include="bin\Debug\Image\23.png" />
+    <Content Include="bin\Debug\Image\24.png" />
+    <Content Include="bin\Debug\Image\25.png" />
+    <Content Include="bin\Debug\Image\26.png" />
+    <Content Include="bin\Debug\Image\27.png" />
+    <Content Include="bin\Debug\Image\28.png" />
+    <Content Include="bin\Debug\Image\29.png" />
+    <Content Include="bin\Debug\Image\3.png" />
+    <Content Include="bin\Debug\Image\30.png" />
+    <Content Include="bin\Debug\Image\31.png" />
+    <Content Include="bin\Debug\Image\32.png" />
+    <Content Include="bin\Debug\Image\33.png" />
+    <Content Include="bin\Debug\Image\3333.png" />
+    <Content Include="bin\Debug\Image\34.png" />
+    <Content Include="bin\Debug\Image\35.png" />
+    <Content Include="bin\Debug\Image\36.png" />
+    <Content Include="bin\Debug\Image\37.png" />
+    <Content Include="bin\Debug\Image\38.png" />
+    <Content Include="bin\Debug\Image\39.png" />
+    <Content Include="bin\Debug\Image\399.png" />
+    <Content Include="bin\Debug\Image\4.png" />
+    <Content Include="bin\Debug\Image\40.png" />
+    <Content Include="bin\Debug\Image\41.png" />
+    <Content Include="bin\Debug\Image\42.png" />
+    <Content Include="bin\Debug\Image\5.png" />
+    <Content Include="bin\Debug\Image\6.png" />
+    <Content Include="bin\Debug\Image\7.png" />
+    <Content Include="bin\Debug\Image\8.png" />
+    <Content Include="bin\Debug\Image\9.png" />
+    <Content Include="bin\Debug\Image\99.png" />
+    <Content Include="bin\Debug\Image\del.png" />
+    <Content Include="bin\Debug\Image\search.png" />
+    <Content Include="bin\Debug\Image\search2.png" />
+    <Content Include="bin\Debug\Microsoft.Office.Interop.Excel.dll" />
+    <Content Include="bin\Debug\XizheC.dll" />
+    <Content Include="bin\Debug\巨安冲值程序.exe" />
+    <Content Include="bin\Debug\巨安冲值程序.pdb" />
+    <Content Include="bin\Debug\巨安冲值程序.vshost.exe" />
+    <Content Include="bin\Image\1.png" />
+    <Content Include="bin\Image\10.png" />
+    <Content Include="bin\Image\11.png" />
+    <Content Include="bin\Image\12.png" />
+    <Content Include="bin\Image\13.png" />
+    <Content Include="bin\Image\14.png" />
+    <Content Include="bin\Image\15.png" />
+    <Content Include="bin\Image\16.png" />
+    <Content Include="bin\Image\17.png" />
+    <Content Include="bin\Image\18.png" />
+    <Content Include="bin\Image\19.png" />
+    <Content Include="bin\Image\1X24X24.png" />
+    <Content Include="bin\Image\2.png" />
+    <Content Include="bin\Image\20.png" />
+    <Content Include="bin\Image\201.png" />
+    <Content Include="bin\Image\20150101124303991_easyicon_net_48.png" />
+    <Content Include="bin\Image\21.png" />
+    <Content Include="bin\Image\211.png" />
+    <Content Include="bin\Image\22.png" />
+    <Content Include="bin\Image\23.png" />
+    <Content Include="bin\Image\24.png" />
+    <Content Include="bin\Image\25.png" />
+    <Content Include="bin\Image\26.png" />
+    <Content Include="bin\Image\27.png" />
+    <Content Include="bin\Image\28.png" />
+    <Content Include="bin\Image\29.png" />
+    <Content Include="bin\Image\3.png" />
+    <Content Include="bin\Image\30.png" />
+    <Content Include="bin\Image\31.png" />
+    <Content Include="bin\Image\32.png" />
+    <Content Include="bin\Image\33.png" />
+    <Content Include="bin\Image\3333.png" />
+    <Content Include="bin\Image\34.png" />
+    <Content Include="bin\Image\35.png" />
+    <Content Include="bin\Image\36.png" />
+    <Content Include="bin\Image\37.png" />
+    <Content Include="bin\Image\38.png" />
+    <Content Include="bin\Image\39.png" />
+    <Content Include="bin\Image\399.png" />
+    <Content Include="bin\Image\4.png" />
+    <Content Include="bin\Image\40.png" />
+    <Content Include="bin\Image\41.png" />
+    <Content Include="bin\Image\42.png" />
+    <Content Include="bin\Image\5.png" />
+    <Content Include="bin\Image\6.png" />
+    <Content Include="bin\Image\7.png" />
+    <Content Include="bin\Image\8.png" />
+    <Content Include="bin\Image\9.png" />
+    <Content Include="bin\Image\99.png" />
+    <Content Include="bin\Image\del.png" />
+    <Content Include="bin\Image\search.png" />
+    <Content Include="bin\Image\search2.png" />
     <Content Include="xz 200X200.ico" />
   </ItemGroup>
   <ItemGroup>
